@@ -1,0 +1,8 @@
+h1{
+  color: red; font-family: Calibri; background-color: orange;
+}
+body{background-color: orange;}
+button{
+background-color: yellow;
+font-size: 18px
+}

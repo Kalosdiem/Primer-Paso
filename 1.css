@@ -1,0 +1,21 @@
+.hijohijo{
+    background-color: red;
+    margin: 30px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.hijo{
+    background-color: orange;
+    text-align: center;
+    margin: 30px;
+    width: 160px;
+    height: 180px;
+}
+.padre{
+    background-color: yellow;
+    text-align: center;
+    margin: 30px;
+    width: 220px;
+    height: 280px;
+}
